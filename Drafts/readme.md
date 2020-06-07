@@ -1,1 +1,8 @@
-
+# Draft Blogpost on IBM Capstone Project
+Starting up a new business can be an exciting proposition, but have we thought of what is required to start up a successful business. Take for example a simple cafe, seems easy enough right? We just need to brew up some tasty, authentic Espressos for the masses. We find a quiet alleyway to maintain the peaceful, holiday atmosphere. But is this enough? It is easy to forget that many new startups fail because the bosses failed to plan. An idyllic scene of your dream cafe is easy to conjure. But, have you thought of the concrete attributes your business should have?\
+\
+We stick to our original example of cafes. Below shows are map of New York and 50 cafes in a 30 mile radius around her centre.
+![Cafe_NY](https://github.com/wchia016/IBM-Data-Professional-Capstone/blob/master/Drafts/cafe_scatter.png)\
+It's crazy how many cafes there are and just from a simple skim through datasets provided by FourSquare, we can see that many cafes are charging at low prices. Now, I am not saying that this is a very bad thing. However, think about it? Prices have a signalling effect. If you are forever stuck at low prices, it will be difficult to escape from the image of "sub-par". Furthermore, why accept lower revenue when with a little Data Science analysis, we can discern what is the winning formula?\
+![NY_cluster](https://github.com/wchia016/IBM-Data-Professional-Capstone/blob/master/Drafts/cluster.png)\
+A little scan can show what are the key areas that cafes tend to cluster around. We know that many love to set up shop at the financial district because of richer clients and larger crowds. The higher-priced cafes also tend to situate themselves at the financial districts.  There appears to be a small but meaningful correlation. However, why some still charge low in an ideal location remains a mystery for another time when we look at more qualitative points. Until next time!
